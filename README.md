@@ -21,7 +21,7 @@ Aplicativo desenvolvido em Flutter para realizar a busca de endereços pelo CEP,
 
 1. Clone o repositório:
     ```bash
-   git clone https://github.com/devnatanaelsantos/agenda_contatos
+   git clone https://github.com/devnatanaelsantos/cep_app
 3. Instale as dependências:
    ```bash
    flutter pub get
