@@ -1,16 +1,31 @@
-# cep_app
+# Buscar CEP
 
-A new Flutter project.
+Aplicativo desenvolvido em Flutter para realizar a busca de endereços pelo CEP, utilizando a API do ViaCEP para obter os dados.
 
-## Getting Started
+## Layout do Aplicativo
+<div style="display: flex; justify-content: space-between;">
+<img src="https://github.com/devnatanaelsantos/readme_imgs/blob/main/cep_app/print%201.png" width=300 height='650'>
+<img src="https://github.com/devnatanaelsantos/readme_imgs/blob/main/cep_app/print%202.png" width=300 height='650'>
+</div>
 
-This project is a starting point for a Flutter application.
+## Demonstração
+<img src="https://github.com/devnatanaelsantos/readme_imgs/blob/main/cep_app/demo.gif" width=300 height='650'>
 
-A few resources to get you started if this is your first Flutter project:
+##  Padrão de Arquitetura
+- MVC
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Gerênciamento de Estado
+- ValueNotifier
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Como Executar
+
+1. Clone o repositório:
+    ```bash
+   git clone https://github.com/devnatanaelsantos/agenda_contatos
+3. Instale as dependências:
+   ```bash
+   flutter pub get
+5. Execute o aplicativo:
+   ```bash
+   flutter run
+
